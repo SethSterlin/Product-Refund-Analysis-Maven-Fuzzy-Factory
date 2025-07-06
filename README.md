@@ -3,6 +3,7 @@
 
 You can view the SQL scripts used in this project here:
 https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/Product%20Refund%20Analysis.sql
+Spreadsheet:
 
 In this analysis, we examined real order and refund data from **Maven Fuzzy Factory**, an e-commerce business selling plush toys. Our goal is to identify which products contribute most to refund issues and prioritize actions based on the **Pareto Principle (80/20 Rule)**.
 
