@@ -1,0 +1,6 @@
+primary_product_id,product_name,total_order,total_refund,refund_rate,% of total,Cumulative Frequency,Running Total
+1,The Original Mr. Fuzzy,23861,1382,6%,34%,34%,6%
+2,The Forever Love Bear,4803,131,3%,16%,50%,9%
+3,The Birthday Sugar Panda,3068,209,7%,40%,91%,15%
+4,The Hudson River Mini bear,581,9,2%,9%,100%,17%
+,total,,1731,17%,100%,,
