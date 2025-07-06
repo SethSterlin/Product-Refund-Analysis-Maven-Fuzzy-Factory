@@ -1,28 +1,29 @@
 
 ## 📦 Product Refund Analysis (Using Pareto Chart)
 
-You can view the SQL scripts used in this project here:
-https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/Product%20Refund%20Analysis.sql
+You can view the SQL scripts used in this project here:  
+[https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/Product%20Refund%20Analysis.sql](https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/Product%20Refund%20Analysis.sql)
 
-In this analysis, we examined real order and refund data from **Maven Fuzzy Factory**, an e-commerce business selling plush toys. Our goal is to identify which products contribute most to refund issues and prioritize actions based on the **Pareto Principle (80/20 Rule)**.
+In this analysis, I examined real order and refund data from **Maven Fuzzy Factory**, an e-commerce business selling plush toys. My goal is to identify which products contribute most to refund issues and prioritize actions based on the **Pareto Principle (80/20 Rule)**.
 
-We calculated the **refund rate** per product and sorted them by total refund volume to visualize the top drivers of refund problems.
+I calculated the **refund rate** per product and sorted them by total refund volume to visualize the top drivers of refund problems.
 
 ### 🔢 Summary Table
 
-| Product Name                  | Total Orders | Refund Count | Refund Rate | % of Total Refunds | Cumulative % |
-|------------------------------|--------------|---------------|-------------|--------------------|---------------|
-| 🎂 Birthday Sugar Panda      | 3,068        | 209           | 7%          | 40%                | 40%           |
-| 🐻 Original Mr. Fuzzy        | 23,861       | 1,382         | 6%          | 34%                | 75%           |
-| 💘 Forever Love Bear         | 4,803        | 131           | 3%          | 16%                | 91%           |
-| 🧸 Hudson River Mini Bear    | 581          | 9             | 2%          | 9%                 | 100%          |
+
+| Product Name               | Total Orders | Refund Count | Refund Rate | % of Total Refunds | Cumulative % |
+|---------------------------|--------------|--------------|-------------|--------------------|--------------|
+| 🎂 Birthday Sugar Panda    | 3,068        | 209          | 7%          | 40%                | 40%          |
+| 🐻 Original Mr. Fuzzy      | 23,861       | 1,382        | 6%          | 34%                | 75%          |
+| 💘 Forever Love Bear       | 4,803        | 131          | 3%          | 16%                | 91%          |
+| 🧸 Hudson River Mini Bear  | 581          | 9            | 2%          | 9%                 | 100%         |
 
 
 > 📌 **Total Refunds** across all products: **1,731 items**
 
 ----------
 
-![https://public.tableau.com/views/ParetoChartRefundRateAnalysis/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/screenshot20250706161416.png?raw=true)
+![https://public.tableau.com/views/ParetoChartRefundRateAnalysis/Sheet1?=en-US&publish=yes&=&=auth&=n&=viz_share_link](https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/screenshot20250706161416.png?raw=true)
 
 ### 📊 Insights from Pareto Chart
 
