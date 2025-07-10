@@ -18,7 +18,7 @@ I calculated the **refund rate** per product and sorted them by total refund vol
 
 ----------
 
-![https://public.tableau.com/views/ParetoChartRefundRateAnalysis/Sheet1?=en-US&publish=yes&=&=auth&=n&=viz_share_link](https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/screenshot20250706161416.png?raw=true)
+![enter image description here](https://github.com/SethSterlin/Product-Refund-Analysis-Maven-Fuzzy-Factory/blob/main/Refund%20Rate%20Analysis.png?raw=true)
 
 ### 📊 Insights from Pareto Chart
 
